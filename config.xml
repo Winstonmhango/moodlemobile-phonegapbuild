@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20210"
-        version   = "3.4.0">
-    <name>Moodle Mobile</name>
+        id        = "com.secondaryeducationhub.secondaryedumobile"
+        versionCode = "1"
+        version   = "1.0.0">
+    <name>secondary education hub</name>
 
     <description>
-        Moodle Mobile official app
+        official secondary education hub app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://ismatechsolutions.com" email="info@ismatechsolutions.com">
+        ismatech solutions
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
